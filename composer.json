@@ -21,14 +21,16 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"nette/di": "~2.4",
-		"nette/http": "~2.4",
-		"nette/utils": "~2.4",
-		"tracy/tracy": "~2.4"
+		"nette/di": "~3.0",
+		"nette/http": "~3.0",
+		"nette/utils": "~3.0",
+		"tracy/tracy": "~2.7",
+		"nette/bootstrap": "~3.0",
+		"latte/latte": "~v2.8"
 	},
 	"autoload": {
-		"psr-0": {
-			"Kdyby\\SessionPanel": "src"
+		"psr-4": {
+			"Kdyby\\SessionPanel\\": "src"
 		}
 	}
 }

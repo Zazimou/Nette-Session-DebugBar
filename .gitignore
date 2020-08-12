@@ -1,2 +1,13 @@
 vendor
 composer.lock
+/.idea/$CACHE_FILE$
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/dictionaries
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/nette-session-panel.iml
+/.idea/php.xml
+/.idea/vagrant.xml
+/.idea/vcs.xml
